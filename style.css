@@ -1,7 +1,13 @@
-body{
+body {
     background-color: crimson;
 }
 
-h1{
+h1 {
     color: antiquewhite;
+}
+
+#table {
+
+    width: 1309px;
+    margin: 0 auto;
 }
